@@ -7,8 +7,8 @@ dependencies = [
     "androguard>=4.1.3",
     "tqdm>=4.67.1",
     "loguru>=0.7.3",
-    "fonttools==4.60.2",
     "pytest>=9.1.1",
+    "fonttools==4.63.0",
 ]
 
 [tool.pytest.ini_options]
